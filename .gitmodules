@@ -1,0 +1,3 @@
+[submodule "modules/rapidjson/rapidjson"]
+	path = modules/rapidjson/rapidjson
+	url = https://github.com/voltengine/rapidjson.git
